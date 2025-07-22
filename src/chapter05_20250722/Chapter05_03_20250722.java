@@ -1,4 +1,4 @@
-package java_20250722;
+package chapter05_20250722;
 
 import java.util.Arrays;
 

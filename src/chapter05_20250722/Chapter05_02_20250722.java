@@ -1,4 +1,4 @@
-package java_20250722;
+package chapter05_20250722;
 
 public class Chapter05_02_20250722 {
 
